@@ -1,0 +1,19 @@
+{
+  "name": "simplestore",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "start": "nodemon project.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0"
+  }
+}
