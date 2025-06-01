@@ -1,0 +1,26 @@
+[
+  {
+    "username": "jassne123",
+    "password": "$2b$10$gIXWL1vKEcrLvYd9ZePkOOET8nySwKLHj2oe1rbb.dVVL9uY3K9ym",
+    "name": "Jane Smissth",
+    "age": 28,
+    "email": "jane@exampssle.com",
+    "role": "user"
+  },
+  {
+    "username": "jssne123",
+    "password": "$2b$10$KeqhP1pi7wkLKaKueWCKA.nWs6D6YF.GkQBPIHLe4Tip9QZ.ImsK6",
+    "name": "Jane Smissth",
+    "age": 28,
+    "email": "jane@exampssle.com",
+    "role": "user"
+  },
+  {
+    "username": "dva",
+    "password": "$2b$10$XBlhVTZf7h/ZfzbPG.NVZOiuIZNTCVybPKl550PISy9swrQufOMJK",
+    "name": "Jane Smissth",
+    "age": 28,
+    "email": "jane@exampssle.com",
+    "role": "user"
+  }
+]

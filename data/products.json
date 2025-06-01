@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Over-ear headphones with noise cancellation and 20-hour battery life.",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated water bottle that keeps liquids cold for 24 hours.",
+    "price": 19.99,
+    "category": "Home & Kitchen",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "name": "Men's Running Shoes",
+    "description": "Lightweight, breathable shoes for daily workouts and jogging.",
+    "price": 75,
+    "category": "Footwear",
+    "stock": 40
+  },
+  {
+    "id": 4,
+    "name": "Smart LED Light Bulb",
+    "description": "Color-changing bulb controllable via smartphone app or voice assistant.",
+    "price": 14.49,
+    "category": "Home Automation",
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "name": "Organic Green Tea (100 bags)",
+    "description": "Premium organic green tea bags for a healthy lifestyle.",
+    "price": 11.99,
+    "category": "Groceries",
+    "stock": 150
+  },
+  {
+    "name": "Smartphone X100",
+    "description": "Latest smartphone with OLED display and 128GB storage.",
+    "price": 799.99,
+    "category": "Electronics",
+    "stock": 50
+  }
+]
